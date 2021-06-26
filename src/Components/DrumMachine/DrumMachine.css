@@ -1,0 +1,9 @@
+.container {
+    margin-top: 10%;
+}
+
+#display {
+    padding: 2em;
+    border-style: solid;
+    border-radius: 25px;
+}

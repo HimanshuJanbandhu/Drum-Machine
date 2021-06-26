@@ -1,0 +1,12 @@
+#shade {
+    height: 50px;
+}
+
+.drum-pad {
+    padding: 10px;
+}
+
+.card {
+    background-color:#DCDCDC;
+    border-radius: 10px;
+}
