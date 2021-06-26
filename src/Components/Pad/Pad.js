@@ -35,6 +35,7 @@ class Pad extends React.Component {
                     <div className="card"> 
                         <div className="card-body">
                             <audio 
+                                preload="auto"
                                 ref={ref => (this.audio = ref)} 
                                 className="clip" id={keyLetter[this.props.id]} 
                                 src={path[this.props.id]} 
