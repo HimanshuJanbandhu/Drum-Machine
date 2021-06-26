@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Drum-Machine/static/css/main.a3743df4.chunk.css",
+    "main.js": "/Drum-Machine/static/js/main.7dbbe272.chunk.js",
+    "main.js.map": "/Drum-Machine/static/js/main.7dbbe272.chunk.js.map",
+    "runtime-main.js": "/Drum-Machine/static/js/runtime-main.bbc1d2e2.js",
+    "runtime-main.js.map": "/Drum-Machine/static/js/runtime-main.bbc1d2e2.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/Drum-Machine/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.92d3f126.chunk.js": "/Drum-Machine/static/js/2.92d3f126.chunk.js",
+    "static/js/2.92d3f126.chunk.js.map": "/Drum-Machine/static/js/2.92d3f126.chunk.js.map",
+    "static/js/3.d4b60531.chunk.js": "/Drum-Machine/static/js/3.d4b60531.chunk.js",
+    "static/js/3.d4b60531.chunk.js.map": "/Drum-Machine/static/js/3.d4b60531.chunk.js.map",
+    "index.html": "/Drum-Machine/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/Drum-Machine/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.a3743df4.chunk.css.map": "/Drum-Machine/static/css/main.a3743df4.chunk.css.map",
+    "static/js/2.92d3f126.chunk.js.LICENSE.txt": "/Drum-Machine/static/js/2.92d3f126.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbc1d2e2.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.92d3f126.chunk.js",
+    "static/css/main.a3743df4.chunk.css",
+    "static/js/main.7dbbe272.chunk.js"
+  ]
+}
